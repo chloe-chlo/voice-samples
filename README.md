@@ -7,3 +7,7 @@ Run the following to generate the `tagged` directory:
 ```
 make
 ```
+
+# Notes on the samples
+
+Some of the samples have only been rated on one dimension, whereas some have been rated on all 3 (Pitch, Resonance, and Weight.)
